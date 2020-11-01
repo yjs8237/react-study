@@ -1,7 +1,7 @@
 import { Fragment } from "react";
 
 function App() {
-  let name = "jisang";
+  let name = "test";
   
   return (
     <Fragment>
